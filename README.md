@@ -77,7 +77,5 @@ lr.intercept_
 
 
 ![image](https://github.com/user-attachments/assets/a6e1db72-cd22-4b12-b61e-6501be2dae42)
-
-
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
