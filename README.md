@@ -50,22 +50,32 @@ lr.intercept_
 
 ## Output:
 1. HEAD:
-   ![image](https://github.com/user-attachments/assets/df5863f0-df0a-488b-bb64-b2270bbf1401)
+
+
+![image](https://github.com/user-attachments/assets/df5863f0-df0a-488b-bb64-b2270bbf1401)
 
    
 2.GRAPH OF PLOTTED DATA:
+
+
 ![image](https://github.com/user-attachments/assets/14d27aa6-a387-44d7-9b96-9d95056efc18)
 
 
 3.TRAINED DATA:
+
+
 ![image](https://github.com/user-attachments/assets/f6fd8ee0-ddcb-4a4c-bab8-2229e270a4e8)
 
 
 4.LINE OF REGRESSION:
+
+
 ![image](https://github.com/user-attachments/assets/6c84fdfe-2a1e-4e43-91f6-e53a04bf5e96)
 
 
 5.COEFFICIENT AND INTERCEPT VALUES:
+
+
 ![image](https://github.com/user-attachments/assets/a6e1db72-cd22-4b12-b61e-6501be2dae42)
 
 
